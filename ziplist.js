@@ -1,6 +1,5 @@
 const list1 = ['a', 'b', 'c'];
 const list2 =[1, 2, 3];
-
 function zipList(first,second){
   const result = [];
   for (let i = 0; i < first.length || i < second.length ; i++){
